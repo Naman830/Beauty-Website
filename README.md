@@ -7,3 +7,4 @@
 # Beauty-Website
 
 this website is created for beauty brand
+this is great website to start your mern stack journey 
